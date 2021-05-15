@@ -1,0 +1,22 @@
+{
+  "name": "unibg",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pacho94/UnibgDown.git"
+  },
+  "version": "1.0.0",
+  "description": "Save Microsoft Stream videos uploaded by Università degli studi di Bergamo.",
+  "main": "unibg.js",
+  "keywords": [],
+  "author": "pacho94",
+  "license": "MIT",
+  "dependencies": {
+    "keytar": "^6.0.0",
+    "m3u8-parser": "^4.4.0",
+    "node-notifier": "^7.0.1",
+    "puppeteer": "^2.1.1",
+    "request": "^2.88.2",
+    "terminal-kit": "^1.26.10",
+    "yargs": "^15.0.3"
+  }
+}
